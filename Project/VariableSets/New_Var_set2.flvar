@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName">MadCap Software</Variable>
+  <Variable
+    Name="versja"
+    Comment=""
+    EvaluatedDefinition="01">01</Variable>
+  <Variable
+    Name="NewDateTimeVariable"
+    Comment=""
+    Type="DateTimeFileSaved"
+    LastUpdated="2021-04-14T22:28:21.6101988+02:00"
+    EvaluatedDefinition="ddd MM/dd/yy">ddd MM/dd/yy</Variable>
+  <Variable
+    Name="versja"
+    Comment=""
+    EvaluatedDefinition="02">02</Variable>
+  <Variable
+    Name="versja"
+    Comment=""
+    EvaluatedDefinition="03">03</Variable>
+  <Variable
+    Name="NewDateTimeVariable"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2021-04-14T23:47:46.4689938+02:00"
+    EvaluatedDefinition="hh:mm:ss tt dd MMMM, yyyy">hh:mm:ss tt dd MMMM, yyyy</Variable>
+</CatapultVariableSet>
