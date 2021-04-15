@@ -18,4 +18,5 @@
     <Destination
       Publish="true" />
   </Destinations>
+  <PostBuild></PostBuild>
 </CatapultTarget>
